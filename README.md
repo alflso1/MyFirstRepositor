@@ -1,2 +1,2 @@
 # MyFirstRepositor
-Hello Mt name is HanGyeo1
+Hello My name is Choi Ah Reum
