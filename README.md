@@ -1,2 +1,7 @@
-# MyFirstRepositor
-Hello My name is Choi Ah Reum
+# 19173028 최아름
+
+## 1주차 과제
+
+## 2주차 과제
+
+## 3주차 과제
