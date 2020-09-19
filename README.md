@@ -3,6 +3,6 @@
 ## 1주차 과제
 
 ## 2주차 과제
-<img width="" height="" scr="./png/2주차 과제물.png"></ig>
+<img width="" height="" scr="./png/2주차 과제물.jpg"></ig>
 
 ## 3주차 과제
