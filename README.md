@@ -32,7 +32,7 @@
 ## 8주차 중간고사
 
 ## 9주차 과제
-#### 이미지 바꾸기 
+#### ▶이미지 바꾸기 
 <img width="200" height="300" src="./png/이미지1.PNG"></img>  <img width="200" height="300" src="./png/이미지2.PNG"></img> 
-#### 넓이/높이
+#### ▶넓이/높이
 <img width="200" height="300" src="./png/넓이.PNG"></img> <img width="200" height="300" src="./png/높이.PNG"></img>
