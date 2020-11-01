@@ -28,3 +28,7 @@
 
 ## 7주차 과제
 <img width="200" height="300" src="./png/6주차.PNG">  </img><img width="200" height="300" src="./png/6주차1.PNG"></img>
+
+## 8주차 중간고사
+
+## 9주차 과제
