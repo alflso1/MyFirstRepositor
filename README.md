@@ -37,3 +37,6 @@
 <img width="200" height="300" src="./png/이미지1.PNG"></img>  <img width="200" height="300" src="./png/이미지2.PNG"></img> 
 #### ▶넓이/높이
 <img width="200" height="300" src="./png/넓이.PNG"></img> <img width="200" height="300" src="./png/높이.PNG"></img>
+
+## 10주차 과제
+<img width="200" height="300" src="./png/1.PNG"></img> <img width="200" height="300" src="./png/2.PNG"></img> <img width="200" height="300" src="./png/3.PNG"></img>
